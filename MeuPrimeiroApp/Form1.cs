@@ -40,6 +40,8 @@ namespace MeuPrimeiroApp
             var valor1 = 10;
             var valor2 = 0;
 
+            //teste
+
             var resultado = valor1 / valor2;
 
             MessageBox.Show(resultado.ToString());
